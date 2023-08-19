@@ -10,5 +10,5 @@ window.addEventListener("resize",function(){
    let div=document.getElementById("sizeInfo");
     let h=div.firstChild;
  
-    h.innerText="Width: "+width+" and Height: "+height; 
+    h.innerText="Width: "+width+" and Height: "+height; })
   
